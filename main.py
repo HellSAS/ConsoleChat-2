@@ -6,7 +6,7 @@ import threading
 
 console = Console()
 
-DELAY = 2
+DELAY = 2 # seconds
 
 def try_to_int(x):
     try:
